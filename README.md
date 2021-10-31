@@ -1,3 +1,3 @@
 # Codeforces
 
-My account on codeforces ▶︎ https://codeforces.com/profile/LujainSaadAli
+My account on codeforces ⇢ https://codeforces.com/profile/LujainSaadAli
