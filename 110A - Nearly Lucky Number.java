@@ -9,7 +9,7 @@ for(int i=0;i<S.length();i++)
 	if(S.charAt(i)=='7'||S.charAt(i)=='4')
 		c++;
     if (c==7||c==4)
-    	System.out.println("YES");
+    	System.out.println("YES ");
     else System.out.println("NO");
 
 }
