@@ -1,0 +1,16 @@
+x, y = map(int,input().split())
+d={}
+ 
+for i in range(y):
+    text=input().split()
+    d[text[0]] = text[1]
+ 
+s=input()
+ls = s.split()
+ 
+for j in ls:
+    r=d[j]
+    if len(j)<=len(r):
+        print(j, end=" ")
+    else:
+        print(r, end=" ")
